@@ -26,7 +26,7 @@ This project is a console-based railway reservation management system that allow
 This project helped me improve my understanding of backend development, database operations, Spring Boot architecture, and real-world application flow.</p>
 <a href="www.google.com">#Java #SpringBoot #MySQL #BackendDevelopment #JavaDeveloper #Hibernate #Programming #SoftwareDevelopment #Coding #Projects #LinkedInProjects</a>
 
-📂 Repository: <a href="https://github.com/vinaykum88570/OIBSIP/tree/main/VinayKumdale_Task1">https:[//github.com/Sachinwaghmare7/OIBSIP/tree/main/Sachinwaghmare_Task1](https://github.com/vinaykum88570/OIBSIP/tree/main/VinayKumdale_Task1)
+📂 Repository: <a href="https://github.com/vinaykum88570/OIBSIP/tree/main/VinayKumdale_Task1">(https://github.com/vinaykum88570/OIBSIP/tree/main/VinayKumdale_Task1)
 </a>
 
 <hr>
@@ -65,5 +65,6 @@ This project helped me strengthen my understanding of Java backend development, 
 
 <a href="www.google.com">#Java #SpringBoot #MySQL #Hibernate #ATMSystem #BackendDevelopment #JavaDeveloper #Programming #SoftwareDevelopment #Coding #Projects #LinkedInProjects</a>
 
-📂 Repository: <a href="https://github.com/vinaykum88570/OIBSIP/tree/main/VinayKumdale_Task3">https://github.com/Sachinwaghmare7/OIBSIP/tree/main/Sachinwaghmare_Task2
+📂 Repository: <a href="https://github.com/vinaykum88570/OIBSIP/tree/main/VinayKumdale_Task3">
+https://github.com/vinaykum88570/OIBSIP/tree/main/VinayKumdale_Task3
 </a>
