@@ -28,6 +28,3 @@ This project helped me improve my understanding of backend development, database
 
 📂 Repository: <a href="https://github.com/vinaykum88570/OIBSIP/tree/main/VinayKumdale_Task1">(https://github.com/vinaykum88570/OIBSIP/tree/main/VinayKumdale_Task1)
 </a>
-
-<hr>
-<hr>
